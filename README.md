@@ -1,4 +1,5 @@
 Microsoft's Movie Studio
+
 This repository contains the code and materials for the Microsoft's Movie Studio project, part of the curriculum for the Data Science Career Track by Flatiron School.
 
 Project Overview
