@@ -5,11 +5,11 @@ __pycache__
 .gitattributes
 !*.zip
 .Data
-tryFinal.pdf
-Movies Analysis-copy,beforemerge.ipynb
-Movies Analysis-Data Visualizations copy.ipynb
-Movies Analysis, with initial visualizations.ipynb
-Movies Analysis, with initial visualizations-Copy1_finalizing.ipynb
-Movies Analysis.ipynb
-Movies Analysis, with initial visualizations.ipynb
-student.ipynb
+.tryFinal.pdf
+.Movies Analysis-copy,beforemerge.ipynb
+.Movies Analysis-Data Visualizations copy.ipynb
+.Movies Analysis, with initial visualizations.ipynb
+.Movies Analysis, with initial visualizations-Copy1_finalizing.ipynb
+.Movies Analysis.ipynb
+.Movies Analysis, with initial visualizations.ipynb
+.student.ipynb
