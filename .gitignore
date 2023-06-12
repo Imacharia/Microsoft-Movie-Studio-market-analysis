@@ -4,6 +4,7 @@ __pycache__
 *.pytest_cache
 .gitattributes
 !*.zip
+.Movies Analysis,Final_files
 .Data
 .tryFinal.pdf
 .Movies Analysis-copy,beforemerge.ipynb
